@@ -52,18 +52,10 @@
 
 </br>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+Email: andrey.gerasimov2506@gmail.com
 
-    andrey.gerasimov2506@gmail.com
+GitHub: https://github.com/N-REY25
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+Telegram: @nrey25
 
-    https://github.com/N-REY25
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-    @nrey25
-
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-    +7 (952) 196-86-36
+WhatApp: +7 (952) 196-86-36
