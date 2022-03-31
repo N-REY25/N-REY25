@@ -2,8 +2,6 @@
 
 # Меня зовут Андрей - Hi, my name is Andrey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/>
 
----
-
 </br>
 
 ---
