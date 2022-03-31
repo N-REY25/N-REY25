@@ -10,17 +10,11 @@
 
 </br>
 
-
-
-</br>
-
 ---
 
 ### Мои знания - My knowledge
 
 ---
-
-</br>
 
 **Языки** - Languages
 
@@ -49,8 +43,6 @@
 ### Мои контакты - My contacts
 
 ---
-
-</br>
 
 Email: andrey.gerasimov2506@gmail.com
 
