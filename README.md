@@ -2,8 +2,6 @@
 
 <img src="img/logo_page.jpg"/>
 
----
-
 ### Меня зовут Андрей - Hi, my name is Andrey
 
 ---
