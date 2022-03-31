@@ -1,6 +1,6 @@
 <img src="img/logo_page.jpg"/>
 
-# Меня зовут Андрей - Hi, my name is Andrey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/>
+# Привет, меня зовут Андрей - Hi, my name is Andrey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/>
 
 </br>
 
