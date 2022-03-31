@@ -6,8 +6,6 @@
 
 Стараюсь продвигать свою веб-компанию «NIGHTTRAFFIC NWS» которая занимается не только разработкой сайтов, но другими графическими услугами на рынке.
 
-</br>
-
 > На данный момент студия совсем маленькая и непостоянная. В ней собраны по моему мнению лучшие студенты и ученики веб и графического дизайна.
 
 </br>
@@ -15,8 +13,6 @@
 A 4th year student of an IT-College. I teach courses on website development. I work as a system administrator, and also participate in WorldSkills Russia as a Technical Expert.
 
 I am trying to promote my web company "NIGHTTRAFFIC NWS", which is engaged not only in website development, but also in other graphic services on the market.
-
-</br>
 
 > At the moment, the studio is very small and unstable. It contains, in my opinion, the best students and students of web and graphic design.
 
