@@ -58,7 +58,7 @@ I am trying to promote my web company "NIGHTTRAFFIC NWS", which is engaged not o
 
 Email: andrey.gerasimov2506@gmail.com
 
-GitHub: https://github.com/N-REY25
+VK: https://vk.com/n_rey25
 
 Telegram: @nrey25
 
