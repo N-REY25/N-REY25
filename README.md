@@ -1,6 +1,8 @@
 # Welcome to my GitHub page <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/>
 
-**Меня зовут Андрей** - Hi, my name is Andrey
+## **Меня зовут Андрей** - Hi, my name is Andrey
+
+### **Мои знания**
 
 **Языки** - Languages
 
@@ -22,7 +24,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-**Мои контакты** - My contacts
+## **Мои контакты** - My contacts
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
