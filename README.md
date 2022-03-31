@@ -1,6 +1,14 @@
-<img src="img/logo_page.jpg"/>
+![Preview](img/logo_page.jpg)
 
-# Привет, меня зовут Андрей - Hi, my name is Andrey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/>
+# Привет, меня зовут Андрей - *Hi, my name is Andrey* <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="25"/>
+
+Студент 4-го курса IT-Колледжа. Преподаю курсы по разработке сайтов. Работаю системным администратором, а также учавствую в WorldSkills Russia в роли Технического эксперта. 
+
+Стараюсь продвигать свою веб-компанию «NIGHTTRAFFIC NWS» которая занимается не только разработкой сайтов, но другими графическими услугами на рынке.
+
+</br>
+
+> На данный момент студия совсем маленькая и не постоянная. В ней собраны по моему менению лучшие студенты и ученики веб и графического дизайна.
 
 </br>
 
