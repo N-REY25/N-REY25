@@ -54,8 +54,8 @@ I am trying to promote my web company "NIGHTTRAFFIC NWS", which is engaged not o
 
 Email: andrey.gerasimov2506@gmail.com
 
-VK: https://vk.com/n_rey25
+VK: [@nrey_25](https://vk.com/n_rey25)
 
-Telegram: @nrey25
+Telegram: [@nrey25](https://t.me/n_rey25)
 
 WhatApp: +7 (952) 196-86-36
