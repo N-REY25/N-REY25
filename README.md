@@ -56,6 +56,6 @@ Email: andrey.gerasimov2506@gmail.com
 
 VK: [@nrey_25](https://vk.com/n_rey25)
 
-Telegram: [@nrey25](https://t.me/n_rey25)
+Telegram: [@n_rey25](https://t.me/n_rey25)
 
 WhatApp: +7 (952) 196-86-36
