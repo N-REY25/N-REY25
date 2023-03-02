@@ -10,7 +10,7 @@
 
 </br>
 
-A 4th year student of an IT-College. I teach courses on website development. I work as a system administrator, and also participate in WorldSkills Russia as a Technical Expert.
+Teacher of an IT College. I teach courses on website development. I work as a system administrator, and also participate in WorldSkills Russia as a Technical Expert.
 
 I am trying to promote my web company "NIGHTTRAFFIC NWS", which is engaged not only in website development, but also in other graphic services on the market.
 
@@ -56,6 +56,6 @@ Email: andrey.gerasimov2506@gmail.com
 
 VK: [@n_rey25](https://vk.com/n_rey25)
 
-Telegram: [@n_rey25](https://t.me/n_rey25)
+Telegram: [@s447ky](https://t.me/s447ky)
 
 WhatApp: +7 (952) 196-86-36
